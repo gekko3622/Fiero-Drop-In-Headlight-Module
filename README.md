@@ -19,9 +19,9 @@ After publishing my original PCB implementation, I was challenged to make it fit
 
 ## Repository Contents
 
-**1. Arduino Nano Program**
+**1. Arduino Program**
 - WalkerTexan's code for the Arduino Nano.\
-This MUST be programmed onto the Arduino for the module to function.
+This MUST be programmed onto the Pro Micro for the module to function.
 
 **2. Gerber Files (For Production)**
 - These are the files that must be provided to a fabricator to produce a PCB.\
