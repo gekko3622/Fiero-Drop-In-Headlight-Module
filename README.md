@@ -6,7 +6,8 @@
 ![IMG_1802](https://github.com/gekko3622/Fiero-Drop-In-Headlight-Module/assets/166318874/6a2a40ab-9132-47d7-b57b-6cc2eff3ec69)
 
 
-**Important:** Please pay attention to the Bill of Materials (BOM). Some components have been changed from my previous designs.
+**Important:** Please pay attention to the Bill of Materials (BOM). Some components have been changed from my previous designs.\
+**This PCB MUST be fabricated with 2 Oz Outer Copper Weight for power handling and safety.**
 
 ## Intro
 
