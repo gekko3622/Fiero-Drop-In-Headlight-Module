@@ -1,5 +1,8 @@
 # Bill of Materials
 
+**Note:** The Quantity column indicates the number of each component that is required.\
+Many electrical components are sold in bulk. Please pay attention to each product page so you don't massively overpurchase.
+
 | Component                 | Quantity               | Position                       | Link                                                                                 | Notes                                     |
 | --------                  | -------                | -------                        | -------                                                                              | -------                                   |
 | Arduino Pro Micro         | 1                      | A1                             | https://www.amazon.com/dp/B01MTU9GOB/                                                | Program the board as "Arduino Leonardo"   |
