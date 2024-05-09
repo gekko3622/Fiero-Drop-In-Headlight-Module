@@ -15,6 +15,8 @@ This is a PCB implementation of WalkerTexan's "Fiero Headlight Controller" proje
 I started this project after getting frustrated with the cost and questionable reliability of used modules.\
 While there are new reproductions of the original module available, I found the cost to be too high.
 
+After publishing my original PCB implementation, I was challenged to make it fit inside the original GM module's housing. Here it is.
+
 ## Repository Contents
 
 **1. Arduino Nano Program**
