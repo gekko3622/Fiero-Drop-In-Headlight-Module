@@ -87,7 +87,7 @@ Once I was satisfied with the fitment, I lightly soldered a pin or two per side 
 The sole casing modification needed is to remove most of the plastic spacers from the back panel.\
 The plastic is pretty soft, so I was able to grab and twist with vice grips to remove most of the material.
 
-**You do not need to fully remove the spacers, just enough to the back panel can be re-installed without flexing.**\
+**You do not need to fully remove the spacers, just enough so the back panel can be re-installed without flexing.**\
 **The round corner pieces do not need to be removed.**
 
 Here's a comparison of an intact panel and my hastily trimmed panel. If you have the time, sanding them would give a more precise fit.
