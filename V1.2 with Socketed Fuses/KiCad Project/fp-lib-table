@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Fiero")(type "KiCad")(uri "C:/Users/Ryan/Dropbox/PCB Projects/Fiero Headlight Controller/OEM - Replacement Public Release V1.1/KiCad Project/Fiero.pretty")(options "")(descr ""))
+)

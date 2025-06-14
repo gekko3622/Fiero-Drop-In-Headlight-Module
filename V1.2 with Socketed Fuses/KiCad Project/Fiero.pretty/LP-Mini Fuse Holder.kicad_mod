@@ -1,0 +1,131 @@
+(footprint "LP-Mini Fuse Holder"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -2 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f09838bb-918f-4198-8649-366a1b66a6e7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "LP-Mini Fuse Holder"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "976197fe-9b50-437f-86b1-c411d2f9d7b4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6adbaa80-29bd-4f84-8225-07a61b1eb57a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "efd04d48-fe8b-4696-ac15-7ded81467605")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b5f35fe7-b759-476a-a20d-94ad2053e63b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -7.25 -9.4)
+		(end 7.55 -4.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "a9479bb7-4e15-4ddd-abfe-6712f2d6c24f")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "5b514e8b-545f-4d84-ac8b-77f5629dd7c9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at -5.8 -7)
+		(size 1.524 2.8)
+		(drill oval 0.762 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "68fa2ecd-50d0-4956-b4f5-9b86287d9f21")
+	)
+	(pad "2" thru_hole oval
+		(at -2 -7)
+		(size 1.524 2.8)
+		(drill oval 0.762 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "43374941-9966-4094-8b18-0a477b9c0c7a")
+	)
+	(pad "3" thru_hole oval
+		(at 2.3 -7)
+		(size 1.524 2.8)
+		(drill oval 0.762 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a6935f0b-cf12-40cf-9a77-e67b07efcf2e")
+	)
+	(pad "4" thru_hole oval
+		(at 6.1 -7)
+		(size 1.524 2.8)
+		(drill oval 0.762 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "184deaa5-79aa-43fe-a6fe-4431d65402be")
+	)
+	(group ""
+		(uuid "e1731f62-8af2-4f7b-8eb1-f675ad24389b")
+		(members "184deaa5-79aa-43fe-a6fe-4431d65402be" "43374941-9966-4094-8b18-0a477b9c0c7a"
+			"68fa2ecd-50d0-4956-b4f5-9b86287d9f21" "a6935f0b-cf12-40cf-9a77-e67b07efcf2e"
+		)
+	)
+)
